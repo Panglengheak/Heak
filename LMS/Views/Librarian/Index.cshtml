@@ -1,0 +1,72 @@
+﻿@model IEnumerable<LMS.Models.Librarian>
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="card">
+    <div class="card-header">
+        <h2 class="card-title">Librarian List</h2>
+    </div>
+    <div class="card-danger">
+        <p>
+            <a asp-action="Create" class="btn btn-outline-primary btn-sm float-right"><i class="fa-solid fa-cart-plus"></i> Add New Librarian</a>
+        </p>
+        <table class="table table-avatar table-bordered ">
+            <tr style="background-color: #12c2e9;">
+                <th>
+                    @Html.DisplayNameFor(model => model.LibrarianId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LibrarianCode)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LibrarianName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Sex)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Dob)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Phone)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Address)
+                </th>
+                <th>
+                    Action
+                </th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(model => item.LibrarianId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(Model => item.LibrarianCode)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.LibrarianName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.Sex)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(Model => item.Dob)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.Phone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.Address)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-controller="Librarian" asp-route-LibrarianId="@item.LibrarianId" class="btn btn-outline-primary ml-1"><i class="fas fa-edit"></i> Edit</a>
+                        <a asp-action="Delete" asp-controller="Librarian" asp-route-LibrarianId="@item.LibrarianId" class="btn btn-outline-danger"><i class="fa-solid fa-trash"></i> Delete</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

@@ -1,0 +1,52 @@
+﻿@model LMS.Models.Librarian
+<div class="card">
+	<div class="card-header text-uppercase">
+		<h4 class="h4">Update Librarian</h4>
+	</div>
+	<div class="card-body">
+		<form asp-action="Update" asp-controller="Librarian" method="post">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<input type="hidden" asp-for="LibrarianId" />
+			<div class="row">
+				<div class="form-group col-sm-4">
+					<label asp-for="LibrarianCode" class="control-label"></label>
+					<input asp-for="LibrarianCode" placeholder="Librariancode" type="text" class="form-control" />
+					<span asp-validation-for="LibrarianCode" class="text-danger"></span>
+				</div>
+				<div class="form-group col-sm-4">
+					<label asp-for="LibrarianName" class="control-label"></label>
+					<input asp-for="LibrarianName" placeholder="LibrarianName" type="text" class="form-control" />
+					<span asp-validation-for="LibrarianName" class="text-danger"></span>
+				</div>
+				<div class="form-group col-sm-4">
+					<label asp-for="Sex" class="control-label"></label>
+					<input asp-for="Sex" placeholder="Sex" type="text" class="form-control" />
+					<span asp-validation-for="Sex" class="text-danger"></span>
+				</div>
+			</div>
+			<div class="row">
+
+				<div class="form-group col-sm-4">
+					<label asp-for="Dob" class="control-label"></label>
+					<input asp-for="Dob" placeholder="Dob" type="date" class="form-control" />
+					<span asp-validation-for="Dob" class="text-danger"></span>
+				</div>
+				<div class="form-group col-sm-4">
+					<label asp-for="Phone" class="control-label"></label>
+					<input asp-for="Phone" placeholder="Phone" type="text" class="form-control" />
+					<span asp-validation-for="Phone" class="text-danger"></span>
+				</div>
+				<div class="form-group col-sm-4">
+					<label asp-for="Address" class="control-label"></label>
+					<input asp-for="Address" placeholder="Address" type="text" class="form-control" />
+					<span asp-validation-for="Address" class="text-danger"></span>
+				</div>
+
+
+				<div class="form-group">
+					<button type="submit" class="btn btn-success btn-sm float-right ml-1"> Update</button>
+					<a asp-action="Index" class="btn btn-danger btn-sm float-right">Cancel</a>
+				</div>
+		</form>
+	</div>
+</div>

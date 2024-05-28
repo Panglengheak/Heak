@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\services\\librarianserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\services\\librarianserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\lms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\lms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\date\\entitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\date\\entitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\controllers\\librariancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\controllers\\librariancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\services\\ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\services\\ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\views\\librarian\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\views\\librarian\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\views\\librarian\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\views\\librarian\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\views\\librarian\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\views\\librarian\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\migrations\\20240405163623_lms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\migrations\\20240405163623_lms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\migrations\\20240405163623_lms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\migrations\\20240405163623_lms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\migrations\\entitydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\migrations\\entitydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\views\\shared\\_nav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\views\\shared\\_nav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\views\\shared\\_side.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\views\\shared\\_side.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\views\\librarian\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\views\\librarian\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|d:\\bbu3\\asp_net_sql_server\\lms\\lms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC1C076-19AC-4A37-8467-3D60325D03DC}|LMS\\LMS.csproj|solutionrelative:lms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:52:13.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibrarianServiceImp.cs",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Services\\LibrarianServiceImp.cs",
+              "RelativeDocumentMoniker": "LMS\\Services\\LibrarianServiceImp.cs",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Services\\LibrarianServiceImp.cs",
+              "RelativeToolTip": "LMS\\Services\\LibrarianServiceImp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:52:32.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Program.cs",
+              "RelativeDocumentMoniker": "LMS\\Program.cs",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Program.cs",
+              "RelativeToolTip": "LMS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:39:28.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LMS.csproj",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\LMS.csproj",
+              "RelativeDocumentMoniker": "LMS\\LMS.csproj",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\LMS.csproj",
+              "RelativeToolTip": "LMS\\LMS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T11:53:58.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityDbContext.cs",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Date\\EntityDbContext.cs",
+              "RelativeDocumentMoniker": "LMS\\Date\\EntityDbContext.cs",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Date\\EntityDbContext.cs",
+              "RelativeToolTip": "LMS\\Date\\EntityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:32:04.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\appsettings.json",
+              "RelativeDocumentMoniker": "LMS\\appsettings.json",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\appsettings.json",
+              "RelativeToolTip": "LMS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T14:43:02.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibrarianController.cs",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Controllers\\LibrarianController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\LibrarianController.cs",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Controllers\\LibrarianController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\LibrarianController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:35:40.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILibrarianService.cs",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Services\\ILibrarianService.cs",
+              "RelativeDocumentMoniker": "LMS\\Services\\ILibrarianService.cs",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Services\\ILibrarianService.cs",
+              "RelativeToolTip": "LMS\\Services\\ILibrarianService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:54:48.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Librarian\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Librarian\\Edit.cshtml",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Librarian\\Edit.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Librarian\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:47:58.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Librarian\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Librarian\\Index.cshtml",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Librarian\\Index.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Librarian\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:48:49.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T12:31:10.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Librarian\\Create.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Librarian\\Create.cshtml",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Librarian\\Create.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Librarian\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:48:32.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240405163623_LMS.Designer.cs",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Migrations\\20240405163623_LMS.Designer.cs",
+              "RelativeDocumentMoniker": "LMS\\Migrations\\20240405163623_LMS.Designer.cs",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Migrations\\20240405163623_LMS.Designer.cs",
+              "RelativeToolTip": "LMS\\Migrations\\20240405163623_LMS.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:11:10.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EntityDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Migrations\\EntityDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LMS\\Migrations\\EntityDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Migrations\\EntityDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LMS\\Migrations\\EntityDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:16:12.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240405163623_LMS.cs",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Migrations\\20240405163623_LMS.cs",
+              "RelativeDocumentMoniker": "LMS\\Migrations\\20240405163623_LMS.cs",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Migrations\\20240405163623_LMS.cs",
+              "RelativeToolTip": "LMS\\Migrations\\20240405163623_LMS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:02:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Nav.cshtml",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Shared\\_Nav.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Shared\\_Nav.cshtml",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Shared\\_Nav.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Shared\\_Nav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:23:23.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Shared\\_ViewStart.cshtml",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Shared\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:26:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:26:57.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Side.cshtml",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Shared\\_Side.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Shared\\_Side.cshtml",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Shared\\_Side.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Shared\\_Side.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:23:31.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Librarian\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Librarian\\Delete.cshtml",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\Librarian\\Delete.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Librarian\\Delete.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAIBJwA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:48:42.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Models\\Librarian.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\Librarian.cs",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Models\\Librarian.cs",
+              "RelativeToolTip": "LMS\\Models\\Librarian.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:37:14.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LMS\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T12:31:05.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\BBU3\\ASP_NET_SQL_SERVER\\LMS\\LMS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LMS\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T12:31:01.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
